@@ -8,7 +8,7 @@ h1 {
   color: red;
 }
 
-#featured-property > p {
+#featured-property {
   width: 800px;
   text-align: center;
 }
