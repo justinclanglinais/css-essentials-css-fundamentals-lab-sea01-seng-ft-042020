@@ -17,6 +17,10 @@ nav, figcaption {
   text-align: center;
 }
 
+nav a {
+  padding: 0 10px;
+}
+
 #featured-property {
   width: 800px;
   text-align: center;
