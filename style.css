@@ -12,9 +12,7 @@ h1 {
   width: 800px;
   text-align: center;
 }
-section #details {
-  display: block;
-}
 #details > div {
   float: left;
+  display: block;
 }
