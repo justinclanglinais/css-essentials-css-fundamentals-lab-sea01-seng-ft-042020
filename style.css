@@ -9,6 +9,10 @@ h1 {
   text-align: center;
 }
 
+img {
+  display: block;
+}
+
 #featured-property {
   width: 800px;
   text-align: center;
